@@ -169,8 +169,8 @@ p {
   .home__img {
     position: absolute;
     top: 5%;
-    left: 15%;
-    width: 600px;
+    left: 20%;
+    width: 400px;
     z-index: var(--z-normal); }
   .home__information {
     padding-left: 4.25rem;
@@ -264,9 +264,9 @@ p {
               transform: initial;
       text-align: center; }
     .home__img {
-      width: 800px;
-      top: 30%;
-      left: 20%;
+      width: 370px;
+      top: 32%;
+      left: 1%;
       right: 0;
       margin-left: auto;
       margin-right: auto; }
